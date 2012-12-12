@@ -19,6 +19,7 @@ Twitter have closed a number of application's API Access without any warning or 
 We cannot retrieve all of our data. Twitter decides not to show it because of some silly reasons. Here is an example
 
 [I’m Done Developing for Twitter - HN Discussion](http://news.ycombinator.com/item?id=4177151) and [article](http://restrictionisexpression.com/post/26144987502/im-done-developing-for-twitter)
+
 LinkedIn also did [this](http://thenextweb.com/insider/2012/06/22/how-linkedin-betrayed-5-man-startup-pealk-and-why-developers-should-be-concerned/) and [this](http://techcrunch.com/2011/07/01/linkedin-cuts-off-api-access-to-branchout-monsters-beknown-and-others-for-tos-violations/)
 
 Advertisement Driven Culture - Advertisement Driven Development
