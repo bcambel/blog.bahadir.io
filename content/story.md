@@ -16,19 +16,19 @@ I jumped into the tram, got into the office, and we went downstairs, and told my
 I was reliefed and ready to start my journey. It took me almost 3.5 months to leave. Throughout the April, I worked for 3 days a week.
 
 May 1st , 2011 - First day of total freedom(?)
+---------------------------------------------
 
- After I've stopped working, investigated the visa options and decided to apply for the Entrepreneurship visa. Oh boy, that is THE worst decision that I might have made so far. I'm still pissed off.
+After I've stopped working, investigated the visa options and decided to apply for the Entrepreneurship visa. Oh boy, that is THE worst decision that I might have made so far. I'm still pissed off.
 
 Asked existing clients and employers for references.
 Written 20+ page business plan. It sucked all my energy.
 Worked with a local advisor to review my business plan.
 Talked with a immigration lawyer about my situation, and he suggested I should stay as a knowledge worker, not to APPLY for entrepreneurship visa. Since I gave my decision, I would not work for another company. End of discussion.
 July 17th, 2011 - Read to apply
-
+--------------------------------------------------
 I got my Visa appointment on July 17. Delivered my documents, got my temporary visa for 6 months. The normal time to get a reply is max 2-3 months they said. In total, I wasted 3+ months and spent around €7.000 to be prepared for my Visa application.
 
 I was exhausted, and all my energy was drained before even beginning to my idea/product/company. I've decided to go to our summer house in western part of Turkey. I thought, sun and sea will help me recover, charge my batteries and let the ideas flow.
-
 
 
 Me at the bottom of the picture, lying on the beach, half of my legs inside the sea. What a great feeling, and a great way to relax
@@ -50,6 +50,7 @@ August 29th, 2011 - Prototype on its way
 After 5+ weeks of vacation I was back to Netherlands. Ready to go! Worked on CashGenius about a month more, the concept was pretty much done, I was ready to sell.
 
 October 10th, 2011 - A Twitter Message received
+-----------------------------------------------
 
 A person that I was following on Twitter sent me a message ;
 
@@ -70,6 +71,7 @@ On that Wednesday, we went to have some awesome burgers, and have a coffee after
  And we kept talking over our ideas. Cemal started to convince me that Cashgenius is a really hard way to go. We have also spoken wtih a couple of prospects and realized that they are not using computer to manage their financials. I was in a situation where I wasted again my resources for a product where no customer exists to start up the engines of my business. My game plan was gone. I was falling apart.
 
 November 1st, 2011 - Time to restart
+------------------------------------
 
 Cemal had a idea for businesses to monitor Social Media and I was started to get interested into Natural Language processing and web crawlers. We worked on our own and during the time we kept in touch.
 
@@ -81,11 +83,11 @@ We believe each other's experience, passion, and ideas, so it was time for both 
 
 
 January 1st, 2012 - Time to move in. Start working on
-
+-----------------------------------------------------
 We signed our contract for a year, and started to work on our project; SocialMeter. SocialMeter was a product for businesses to monitor their Social Media appearance. It took some time for us to realize that we are in a bad position. First of all, we don't want to deal with the whole sales cycle of big brands. Second, we want to solve our own problem.  Third, there is already a big competition going on and we'll be a very small fish in the ocean.
 
 February, 2012 - Time to pivot. FolloWords born
-
+--------------------------------------------------
 SocialMeter wasn't the idea that we were looking for. We decided to pivot into consumer space and fix one of the biggest problem of the current state of the internet.
 
 The way we consume information. News - articles - social media. A bigger problem.
@@ -106,7 +108,7 @@ We told our story, our product, problems, got their contact info, business cards
  What an event that was. Free coffee and lunches are great as well :)  We were really exhausted after standing up and talking for non stop 7 hours. Great speakers, great audience, great entrepreneurs. Next year, we will be definitely join the Next Web conference again. You should do as well (Infographic).
 
 June 12th, 2012 - Posted FolloWords to Hacker News
-
+--------------------------------------------------
 I woke up that morning, feeling a bit confused. We were getting better and better everyday with the product, but the biggest part of it was missing. I've decided to post FolloWords to Hacker News to get more private beta users and more opinions. And I did.
 
 Show HN: F*ck it, I am releasing. 6 months, 1dev. Looking for beta users was my original post.
