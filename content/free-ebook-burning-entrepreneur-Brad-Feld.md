@@ -1,18 +1,17 @@
 Burning entrepreneur by Brad Feld
 =================================
-I have recently bought Brad Feld's book Burning Entrepreneur for $2,99 and in Chapter IV; Don't be in 99% and there is an article: Tenacious and Oblivious which had this great comment written by Allen Price
+I have recently bought Brad Feld's book [Burning Entrepreneur](http://www.hyperink.com/Blog-To-Book-Burning-Entrepreneur-How-To-Launch-Fund-And-Set-Your-Startup-On-Fire-b1518) for $2,99 and in Chapter IV; Don't be in 99% and there is an article: Tenacious and Oblivious which had this great comment written by Allen Price
 
 Having a passion, a real passion, is the fuel of tenacity, and tenacity is the killer of fear. - Allen Price
 
 This book is a collection of articles on Brad's blog
 
-By the way, with this link you can buy the book for free ( 1. I don't earn anything, 2. Yes, it's really free. )
+By the way, with [this link](http://www.hyperink.com/share/1518?utm_source=1518&utm_medium=inside_book&utm_campaign=chapter_end_share_pdf) 
+you can download the e-book for free ( 1. I don't earn anything, 2. Yes, it's really free. )
 
 There is another great sentence;
 
 > If you aren't standing on the edge you are taking up too much space.
-
- 
 
 > 2 types of people..
 > Leaders and Victims. 
