@@ -1,0 +1,2 @@
+#!/bin/sh
+fab update_codebase -i ~/.ssh/production_rsa
