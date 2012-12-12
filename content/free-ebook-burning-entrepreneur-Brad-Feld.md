@@ -2,6 +2,7 @@ Burning entrepreneur by Brad Feld
 =================================
 I have recently bought Brad Feld's book [Burning Entrepreneur](http://www.hyperink.com/Blog-To-Book-Burning-Entrepreneur-How-To-Launch-Fund-And-Set-Your-Startup-On-Fire-b1518) for $2,99 and in Chapter IV; Don't be in 99% and there is an article: Tenacious and Oblivious which had this great comment written by Allen Price
 
+![Burning Entrepreneur by Brad Feld](https://s3.amazonaws.com/hyperink_covers/1518_thumb)
 Having a passion, a real passion, is the fuel of tenacity, and tenacity is the killer of fear. - Allen Price
 
 This book is a collection of articles on Brad's blog
