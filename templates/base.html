@@ -24,19 +24,13 @@
                 <li class="dropdown open">
                     <a class="dropdown-toggle" data-toggle="dropdown" href="#">Posts<b class="caret"></b></a>
                     <ul class="dropdown-menu">
-                        
+                        {% for article in articles %}
                         <li>
-                            <a href="/posts/entrepreneurship-and-failure.html">
-                                entrepreneurship and failure
+                            <a href="/posts/{{article.slug}}.html">
+                                {{article.title}}
                             </a>
                         </li>
-                        
-                        <li>
-                            <a href="/posts/story.html">
-                                story
-                            </a>
-                        </li>
-                        
+                        {% endfor %}
                     </ul>
                 </li>
                 </li>
@@ -50,17 +44,9 @@
     </div>
 </div>
     <div class="container main-content">
-        
-    
-        <a href="/posts/entrepreneurship-and-failure.html">
-            entrepreneurship and failure
-        </a>
-     
-        <a href="/posts/story.html">
-            story
-        </a>
-     
+        {% block body %}
 
+        {% endblock %}
     </div>
 
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
