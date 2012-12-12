@@ -1,9 +1,9 @@
 {% extends "base.html" %}
 
 {% block body %}
-        <div class="articles">
+        <div class="articles row">
     {% for article in articles %}
-        <h3 class="span8">
+        <h3 class="span5">
 
         <a href="/posts/{{article.slug}}.html">
             {{article.title}}
