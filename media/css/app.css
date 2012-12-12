@@ -1,3 +1,6 @@
+body{
+	background:rgb(244, 244, 244) url('/media/img/light_toast.png');
+}
 .main-content{
 	margin-top: 40px;;
 }
@@ -31,4 +34,9 @@ article p {
 .articles h3{
 	font-family: 'Amaranth','Domine',verdana,sans-serif;
 	font-size: 20px;
+	padding-bottom: 20px;;
+	padding-right: 30px;;
+	box-shadow: 0 2px 4px rgba(34, 25, 25, 0.4);
+	-moz-box-shadow: 0 1px 2px rgba(34,25,25,0.4);
+	-webkit-box-shadow: 0 1px 4px rgba(34, 25, 25, 0.4);
 }
