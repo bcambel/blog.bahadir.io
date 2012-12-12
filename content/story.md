@@ -80,6 +80,7 @@ November 1st, 2011 - Time to restart
 Cemal had a idea for businesses to monitor Social Media and I was started to get interested into Natural Language processing and web crawlers. We worked on our own and during the time we kept in touch.
 
 December 1st, 2011 - Let's find a place to work together
+--------------------------------------------------------
 
 We believe each other's experience, passion, and ideas, so it was time for both of us to move a place where we can work together to build a product. We have started to look offices, considered WTC Amsterdam where Cemal was working, but did not like the price vs value, Spaces was really expensive and there were no place to rent in Herengracht.  We kept on looking and found Science Park Amsterdam where tenants are only Life Science and IT businesses. The rent was affordable and half of what Spaces was asking, direct connection to our ISP, next to the University of Amsterdam campus.
 
