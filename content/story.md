@@ -10,8 +10,9 @@ TL;DR; Go to bottom
 
 Read more: [http://stevetold.us](http://stevetold.us)
 
-
-It was January 14th, 2011 I remember, I woke up in the morning, and suddenly a rush of thoughts hit my brain. I did not think that much.
+January 14th, 2011
+------------------
+I woke up in the morning, and suddenly a rush of thoughts hit my brain. I did not think that much.
 My head was pretty clear after a couple of minutes. I am going to quit my job TODAY.
 
 I jumped into the tram, got into the office, and we went downstairs, and told my boss that I would like to quit my job. He was a bit surprised, but not that much, he said to me "I was expecting this".
