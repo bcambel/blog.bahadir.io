@@ -10,7 +10,8 @@ Even though there was some fiction part in the story, made a good movie.  Hey th
 Social platforms gained huge popularity, raised lots of VC money. Now it's time to pay back, the money that helped them to build these massive networks, going years without any cash flow.
 Hired more and more people every day.
 
- Social Mafia in Action
+Social Mafia in Action
+------------------------
 
 No problem can be solved from the same level of consciousness that created it. -Albert Einstein
 
@@ -42,7 +43,9 @@ Buy out all the possible valuable companies/products and block all the applicati
 Shred all the API access to a lower level. to use Partners to monetize API access.
 They also show the ads within the stream. Search for something, you will see a ad and it's totally unrelated as well.
 
-They are missing a great point. If you start to irrate me with your ads, I won't be happy and I'm not happy. I will start to engage less.
+Missing the whole point
+-----------------------
+They are missing a great point. If you start to irritate me with your ads, I won't be happy and I'm not happy. I will start to engage less.
 
 There are so many trash accounts in Twitter, that keeps on spamming people with pictures that they are not.
 They follow people to get more followers. You receive an email, which is definitely a spam account, programmed to Tweet great quotes and then promote something their own.
