@@ -1,0 +1,11 @@
+article h1{
+	font-family: 'Amaranth','Domine',verdana,sans-serif;
+	font-size: 35px;
+}
+
+article p {
+	font-family: 'Muli', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+	font-size: 1.2em;
+	line-height: 29px;
+}
+}
