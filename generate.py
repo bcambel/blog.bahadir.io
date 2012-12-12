@@ -55,14 +55,14 @@ def render_jinja():
 			content = gen_content.encode('ascii','xmlcharrefreplace')
 
 			with open('posts/%s.html'%article.slug,"w+") as article:
-				article.write( article_jinja_tmpl.render(content=content,articles=articles) )
+				article.write( article_jinja_tmpl.render(content=content,articles=articles,disqus=True) )
 				article.flush()
 
 	index_jinja_tmpl = env.get_template('index.html')
 	index = 'html/index.html'
 
 	with open(index,"w+") as index:
-		index.write(index_jinja_tmpl.render(articles=articles))
+		index.write(index_jinja_tmpl.render(articles=articles,disqus=False))
 		index.flush()
 
 if __name__ == "__main__":
