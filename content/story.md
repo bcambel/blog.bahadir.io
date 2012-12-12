@@ -5,7 +5,7 @@ TL;DR; Go to bottom
 
 “Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma — which is living with the results of other people’s thinking. Don’t let the noise of others’ opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.” - Steve Jobs
 
-Read more: http://stevetold.us
+Read more: [http://stevetold.us](http://stevetold.us)
 
 
 
@@ -98,23 +98,24 @@ As Paul Graham describes in his writing on which problems they would like to inv
 
 After some refactoring of the existing code base, and re-doing the whole interface, our first version were ready. Showed some friends, got some feedback, and keep on working. We decided to go to the Next Web Amsterdam, and was going to buy 2 tickets. After a while, we realized that the cost of the 2 tickets were same as renting a startup table and join the conference for 2 days 2 people. Plans revised; Our target was the Next Web, 26-27 April 2012. We would definitely want to get some feedback from the people that we don't know. More coding and bug fixing.
 
-April 26th, 2012 - The Next Web Amsterdam - First sign of value
+April 26th, 2012 - [The Next Web Amsterdam](http://thenextweb.com/conference/amsterdam/2012/talks/) - First sign of value
 ---------------------------------------------------------------
 ![The Next Web Stand](/media/img/nextweb-stand.jpg)
 This was a great event for us. We've talked with a lot of people, asked a lot of questions, learned how they read news, and how their company valued news. Met with a VC, seed investors, fellow entrepreneurs, journalists, people all around the world and a cow. Yes a cow.
 
 
 We told our story, our product, problems, got their contact info, business cards. I think, The Next Web is a one of the best way that a startup can spend money for marketing ( €1,250 ). Don't buy advertisements; talk with people, listen them, ask questions. And be FREAKING active. People don't stop by on your table. They just walk by. I brought them to our table one by one by simply asking questions. After a while things started to warm up. People started to come themselves when they saw the crowd.
+
 ![The Next Web Crowd](/media/img/nextweb-crowd.jpg)
 
- What an event that was. Free coffee and lunches are great as well :)  We were really exhausted after standing up and talking for non stop 7 hours. Great speakers, great audience, great entrepreneurs. Next year, we will be definitely join the Next Web conference again. You should do as well (Infographic).
+ What an event that was. Free coffee and lunches are great as well :)  We were really exhausted after standing up and talking for non stop 7 hours. Great speakers, great audience, great entrepreneurs. Next year, we will be definitely join the Next Web conference again. [You should do as well (Infographic)](http://thenextweb.com/conference/amsterdam2012/dl/TNW2011_infographic.pdf).
 
 June 12th, 2012 - Posted FolloWords to Hacker News
 --------------------------------------------------
 I woke up that morning, feeling a bit confused. We were getting better and better everyday with the product, but the biggest part of it was missing. I've decided to post FolloWords to Hacker News to get more private beta users and more opinions. And I did.
 
-Show HN: F*ck it, I am releasing. 6 months, 1dev. Looking for beta users was my original post.
-![HNews stats - Google analytics](/media/img/hnews-popular.jpg)
+[Show HN: F*ck it, I am releasing. 6 months, 1dev. Looking for beta users](http://news.ycombinator.com/item?id=4099054) was my original post.
+![HNews stats - Google analytics](/media/img/hnews-popular.png)
 
 In 6 hours, our website got visited nearly by 9K  unique visitors. I felt anxious, overwhelmed with all the comments. Just before NY & SF woke up, Hacker News moderators decided to change the title into Show HN: I'm releasing. 6months, 1dev. Looking for beta users which lost all of its power.  As I was just expressing the exact thoughts of mine. We're on the top 2-3 of Hacker News for almost 4 hours. I've also written a aftermath post about the experience
 
