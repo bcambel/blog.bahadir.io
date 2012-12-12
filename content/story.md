@@ -24,12 +24,14 @@ Asked existing clients and employers for references.
 Written 20+ page business plan. It sucked all my energy.
 Worked with a local advisor to review my business plan.
 Talked with a immigration lawyer about my situation, and he suggested I should stay as a knowledge worker, not to APPLY for entrepreneurship visa. Since I gave my decision, I would not work for another company. End of discussion.
+
 July 17th, 2011 - Read to apply
 --------------------------------------------------
 I got my Visa appointment on July 17. Delivered my documents, got my temporary visa for 6 months. The normal time to get a reply is max 2-3 months they said. In total, I wasted 3+ months and spent around €7.000 to be prepared for my Visa application.
 
 I was exhausted, and all my energy was drained before even beginning to my idea/product/company. I've decided to go to our summer house in western part of Turkey. I thought, sun and sea will help me recover, charge my batteries and let the ideas flow.
 
+![Summer House at the beach](/media/img/beach.jpg)
 
 Me at the bottom of the picture, lying on the beach, half of my legs inside the sea. What a great feeling, and a great way to relax
 
@@ -119,6 +121,7 @@ In 6 hours, our website got visited nearly by 9K  unique visitors. I felt anxiou
 While we're preparing our product, website and help documents, currently more than 500 people are waiting in the Beta List.
 
 The Closing
+--------------------------------------------------
 
 For me Followords is a masterpiece of our own, a product of my lifetime learning and hard meaningful work.  A form of art covered with love and passion, handcrafted and painted with thousands lines of code, HTML tags, millions of database documents, and the private beta users who are making it real. It's a small addition from us to make the internet a better place.
 
