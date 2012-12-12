@@ -101,12 +101,12 @@ SocialMeter wasn't the idea that we were looking for. We decided to pivot into c
 
 The way we consume information. News - articles - social media. A bigger problem.
 
-As [Paul Graham](http://paulgraham.com/) describes in his writing on which problems they would like to invest, The #3 - New news is what we're up to.
+As [Paul Graham](http://paulgraham.com/) describes in his writing on which problems they would like to invest, [#3 - New news](http://ycombinator.com/ideas.html) is what we're up to.
 We are not in the space how the content is created, neither we would like to change how the publishing works. It's not yet-another-social-network. It's neither an exact match what he described.
 
 After some refactoring of the existing code base, and re-doing the whole interface, our first version were ready. Showed some friends, got some feedback, and keep on working.
 We decided to go to the Next Web Amsterdam, and was going to buy 2 tickets.
-After a while, we realized that the cost of the 2 tickets were same as renting a startup table and join the conference for 2 days 2 people.
+After a while, we realized that the cost of the 2 tickets were same as renting [a startup table](http://thenextweb.com/conference/amsterdam/2012/startups) and join the conference for 2 days 2 people.
 Plans revised; Our target was the Next Web, 26-27 April 2012. We would definitely want to get some feedback from the people that we don't know. More coding and bug fixing.
 
 April 26th, 2012 - [The Next Web Amsterdam](http://thenextweb.com/conference/amsterdam/2012/talks/) - First sign of value
@@ -152,9 +152,9 @@ It's a small addition from us to make the internet a better place.
 The beauty of the entrepreneurship and the life is MYSTERY and CHALLENGE. I'm not sure if we're going to succeed on our dreams or not. I'm hungry and like the challenge.
 I would like to be the captain of my ship, my life course.
 
-I'm happy. I don't have a dream to get acquired to feel happy or successful. Ryan Carson has written a great post recently about the topic; selling your company does not make you happy
+I'm happy. I don't have a dream to get acquired to feel happy or successful. Ryan Carson has written a great post recently about the topic; [selling your company does not make you happy](http://ryancarson.com/post/24480936689/selling-your-company-doesnt-make-you-happy)
 
-Happiness is not external. Happiness is a perception. Happiness is within. It's up to you. You either choose to be happy or not. Yes, that simple.
+> Happiness is not external. Happiness is a perception. Happiness is within. It's up to you. You either choose to be happy or not. Yes, that simple.
 
 I'm greatful that I've met with my co-founder and dear friend Cemal. Quiting my job was the second best decision of my life so far. I'll be keep on failing, and trying.
 
