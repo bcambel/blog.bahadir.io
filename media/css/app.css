@@ -17,6 +17,11 @@ article h1{
 	font-size: 35px;
 }
 
+article h2 {
+	font-family: 'Domine',verdana,sans-serif;
+	font-size:24px;
+}
+
 article p {
 	font-family: 'Muli', 'Helvetica Neue', Arial, Helvetica, sans-serif;
 	font-size: 1.2em;
