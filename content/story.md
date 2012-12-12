@@ -3,10 +3,9 @@ I woke up in the morning and decided to quit my job...
 
 TL;DR; Go to bottom
 
-“Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma — which is living with the results of other people’s thinking. Don’t let the noise of others’ opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.” - Steve Jobs
+>“Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma — which is living with the results of other people’s thinking. Don’t let the noise of others’ opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.” - Steve Jobs
 
 Read more: [http://stevetold.us](http://stevetold.us)
-
 
 
 It was January 14th, 2011 I remember, I woke up in the morning, and suddenly a rush of thoughts hit my brain. I did not think that much. My head was pretty clear after a couple of minutes. I am going to quit my job TODAY.
@@ -66,9 +65,12 @@ A person that I was following on Twitter sent me a message ;
 
 ![Tweeet](/media/img/tweet-conversation.jpg)
 
-Why I was against technology talks at that time ? Because I've listened and read enough. It was time to produce. Write code. Build products. Solve problems and help people. My friends say I'm a man of choice and I agree with them. You need to figure out  what you want and that's what I want.
+Why I was against technology talks at that time ? Because I've listened and read enough. It was time to produce. Write code. Build products.
+Solve problems and help people. My friends say I'm a man of choice and I agree with them.
+> You need to figure out  what you want and that's what I want.
 
-On that Wednesday, we went to have some awesome burgers, and have a coffee afterwards. I showed all the cool stuff on Cashgenius. Shared our typical expat stories, had a nice conversation about an hour.
+On that Wednesday, we went to have some awesome burgers, and have a coffee afterwards. I showed all the cool stuff on Cashgenius.
+Shared our typical expat stories, had a nice conversation about an hour.
 
  And we kept talking over our ideas. Cemal started to convince me that Cashgenius is a really hard way to go. We have also spoken wtih a couple of prospects and realized that they are not using computer to manage their financials. I was in a situation where I wasted again my resources for a product where no customer exists to start up the engines of my business. My game plan was gone. I was falling apart.
 
@@ -86,7 +88,11 @@ We believe each other's experience, passion, and ideas, so it was time for both 
 
 January 1st, 2012 - Time to move in. Start working on
 -----------------------------------------------------
-We signed our contract for a year, and started to work on our project; SocialMeter. SocialMeter was a product for businesses to monitor their Social Media appearance. It took some time for us to realize that we are in a bad position. First of all, we don't want to deal with the whole sales cycle of big brands. Second, we want to solve our own problem.  Third, there is already a big competition going on and we'll be a very small fish in the ocean.
+We signed our contract for a year, and started to work on our project; SocialMeter. SocialMeter was a product for businesses to monitor their Social Media appearance.
+It took some time for us to realize that we are in a bad position.
+First of all, we don't want to deal with the whole sales cycle of big brands.
+Second, we want to solve our own problem.
+Third, there is already a big competition going on and we'll be a very small fish in the ocean.
 
 February, 2012 - Time to pivot. FolloWords born
 --------------------------------------------------
@@ -94,39 +100,56 @@ SocialMeter wasn't the idea that we were looking for. We decided to pivot into c
 
 The way we consume information. News - articles - social media. A bigger problem.
 
-As Paul Graham describes in his writing on which problems they would like to invest, The #3 - New news is what we're up to. We are not in the space how the content is created, neither we would like to change how the publishing works. It's not yet-another-social-network. It's neither an exact match what he described.
+As [Paul Graham](http://paulgraham.com/) describes in his writing on which problems they would like to invest, The #3 - New news is what we're up to.
+We are not in the space how the content is created, neither we would like to change how the publishing works. It's not yet-another-social-network. It's neither an exact match what he described.
 
-After some refactoring of the existing code base, and re-doing the whole interface, our first version were ready. Showed some friends, got some feedback, and keep on working. We decided to go to the Next Web Amsterdam, and was going to buy 2 tickets. After a while, we realized that the cost of the 2 tickets were same as renting a startup table and join the conference for 2 days 2 people. Plans revised; Our target was the Next Web, 26-27 April 2012. We would definitely want to get some feedback from the people that we don't know. More coding and bug fixing.
+After some refactoring of the existing code base, and re-doing the whole interface, our first version were ready. Showed some friends, got some feedback, and keep on working.
+We decided to go to the Next Web Amsterdam, and was going to buy 2 tickets.
+After a while, we realized that the cost of the 2 tickets were same as renting a startup table and join the conference for 2 days 2 people.
+Plans revised; Our target was the Next Web, 26-27 April 2012. We would definitely want to get some feedback from the people that we don't know. More coding and bug fixing.
 
 April 26th, 2012 - [The Next Web Amsterdam](http://thenextweb.com/conference/amsterdam/2012/talks/) - First sign of value
 ---------------------------------------------------------------
 ![The Next Web Stand](/media/img/nextweb-stand.jpg)
-This was a great event for us. We've talked with a lot of people, asked a lot of questions, learned how they read news, and how their company valued news. Met with a VC, seed investors, fellow entrepreneurs, journalists, people all around the world and a cow. Yes a cow.
+
+This was a great event for us. We've talked with a lot of people, asked a lot of questions, learned how they read news, and how their company valued news.
+Met with a VC, seed investors, fellow entrepreneurs, journalists, people all around the world and a cow. Yes a cow.
 
 
-We told our story, our product, problems, got their contact info, business cards. I think, The Next Web is a one of the best way that a startup can spend money for marketing ( €1,250 ). Don't buy advertisements; talk with people, listen them, ask questions. And be FREAKING active. People don't stop by on your table. They just walk by. I brought them to our table one by one by simply asking questions. After a while things started to warm up. People started to come themselves when they saw the crowd.
+We told our story, our product, problems, got their contact info, business cards. I think, The Next Web is a one of the best way that a startup can spend money for marketing ( €1,250 ).
+Don't buy advertisements; talk with people, listen them, ask questions. And be FREAKING active. People don't stop by on your table. They just walk by.
+I brought them to our table one by one by simply asking questions. After a while things started to warm up. People started to come themselves when they saw the crowd.
 
 ![The Next Web Crowd](/media/img/nextweb-crowd.jpg)
 
- What an event that was. Free coffee and lunches are great as well :)  We were really exhausted after standing up and talking for non stop 7 hours. Great speakers, great audience, great entrepreneurs. Next year, we will be definitely join the Next Web conference again. [You should do as well (Infographic)](http://thenextweb.com/conference/amsterdam2012/dl/TNW2011_infographic.pdf).
+What an event that was. Free coffee and lunches are great as well :)  We were really exhausted after standing up and talking for non stop 7 hours.
+Great speakers, great audience, great entrepreneurs. Next year, we will be definitely join the Next Web conference again.
+[You should do as well (Infographic)](http://thenextweb.com/conference/amsterdam2012/dl/TNW2011_infographic.pdf).
 
 June 12th, 2012 - Posted FolloWords to Hacker News
 --------------------------------------------------
-I woke up that morning, feeling a bit confused. We were getting better and better everyday with the product, but the biggest part of it was missing. I've decided to post FolloWords to Hacker News to get more private beta users and more opinions. And I did.
+I woke up that morning, feeling a bit confused. We were getting better and better everyday with the product, but the biggest part of it was missing.
+I've decided to post FolloWords to Hacker News to get more private beta users and more opinions. And I did.
 
 [Show HN: F*ck it, I am releasing. 6 months, 1dev. Looking for beta users](http://news.ycombinator.com/item?id=4099054) was my original post.
 ![HNews stats - Google analytics](/media/img/hnews-popular.png)
 
-In 6 hours, our website got visited nearly by 9K  unique visitors. I felt anxious, overwhelmed with all the comments. Just before NY & SF woke up, Hacker News moderators decided to change the title into Show HN: I'm releasing. 6months, 1dev. Looking for beta users which lost all of its power.  As I was just expressing the exact thoughts of mine. We're on the top 2-3 of Hacker News for almost 4 hours. I've also written a aftermath post about the experience
+In 6 hours, our website got visited nearly by 9K  unique visitors. I felt anxious, overwhelmed with all the comments.
+Just before NY & SF woke up, Hacker News moderators decided to change the title into Show HN: I'm releasing. 6months, 1dev.
+Looking for beta users which lost all of its power.  As I was just expressing the exact thoughts of mine. We're on the top 2-3 of Hacker News for almost 4 hours.
+I've also written a aftermath post about the experience
 
 While we're preparing our product, website and help documents, currently more than 500 people are waiting in the Beta List.
 
 The Closing
 --------------------------------------------------
 
-For me Followords is a masterpiece of our own, a product of my lifetime learning and hard meaningful work.  A form of art covered with love and passion, handcrafted and painted with thousands lines of code, HTML tags, millions of database documents, and the private beta users who are making it real. It's a small addition from us to make the internet a better place.
+For me Followords is a masterpiece of our own, a product of my lifetime learning and hard meaningful work.
+A form of art covered with love and passion, handcrafted and painted with thousands lines of code, HTML tags, millions of database documents, and the private beta users who are making it real.
+It's a small addition from us to make the internet a better place.
 
-The beauty of the entrepreneurship and the life is MYSTERY and CHALLENGE. I'm not sure if we're going to succeed on our dreams or not. I'm hungry and like the challenge. I would like to be the captain of my ship, my life course.
+The beauty of the entrepreneurship and the life is MYSTERY and CHALLENGE. I'm not sure if we're going to succeed on our dreams or not. I'm hungry and like the challenge.
+I would like to be the captain of my ship, my life course.
 
 I'm happy. I don't have a dream to get acquired to feel happy or successful. Ryan Carson has written a great post recently about the topic; selling your company does not make you happy
 
