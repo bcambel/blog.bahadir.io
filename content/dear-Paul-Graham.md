@@ -7,7 +7,7 @@ We have never met before. I don't know you. I don't know what other people think
 
 I do know couple of things that you made so far;
 
-- Business: [Y Combinator] (http://ycombinator.com/)
+Business: [Y Combinator](http://ycombinator.com/)
 
 Since 2005 we've funded over 460 startups, including Loopt, Reddit, Clustrix, Wufoo,Scribd, Xobni, Omgpop, Weebly, Songkick, Disqus, Dropbox, ZumoDrive, Justin.tv,Heroku, A Thinking Ape, Machine Zone, Posterous, Airbnb, Heyzap, Cloudkick,DailyBooth, WePay, Bump, Stripe, CarWoo, MixPanel, Cardpool, Optimizely, AeroFS,E la Carte, and Hipmunk.
 
