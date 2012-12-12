@@ -3,32 +3,40 @@ I woke up in the morning and decided to quit my job...
 
 TL;DR; Go to bottom
 
->“Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma — which is living with the results of other people’s thinking. Don’t let the noise of others’ opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.” - Steve Jobs
+>“Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma — which is living with the results of other people’s thinking.
+> Don’t let the noise of others’ opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition.
+> They somehow already know what you truly want to become. Everything else is secondary.”
+> - Steve Jobs
 
 Read more: [http://stevetold.us](http://stevetold.us)
 
 
-It was January 14th, 2011 I remember, I woke up in the morning, and suddenly a rush of thoughts hit my brain. I did not think that much. My head was pretty clear after a couple of minutes. I am going to quit my job TODAY.
+It was January 14th, 2011 I remember, I woke up in the morning, and suddenly a rush of thoughts hit my brain. I did not think that much.
+My head was pretty clear after a couple of minutes. I am going to quit my job TODAY.
 
-I jumped into the tram, got into the office, and we went downstairs, and told my boss that I would like to quit my job. He was a bit suprised, but not that much, he said to me "I was expecting this". We had a nice chat, talked about the projects that I am responsible of. Made a plan, and executed.
+I jumped into the tram, got into the office, and we went downstairs, and told my boss that I would like to quit my job. He was a bit surprised, but not that much, he said to me "I was expecting this".
+We had a nice chat, talked about the projects that I am responsible of. Made a plan, and executed.
 
 I was reliefed and ready to start my journey. It took me almost 3.5 months to leave. Throughout the April, I worked for 3 days a week.
 
 May 1st , 2011 - First day of total freedom(?)
 ---------------------------------------------
 
-After I've stopped working, investigated the visa options and decided to apply for the Entrepreneurship visa. Oh boy, that is THE worst decision that I might have made so far. I'm still pissed off.
+After I've stopped working, investigated the visa options and decided to apply for the Entrepreneurship visa. Oh boy, that was THE worst decision I have made so far. I'm still **pissed off**.
 
-Asked existing clients and employers for references.
-Written 20+ page business plan. It sucked all my energy.
-Worked with a local advisor to review my business plan.
-Talked with a immigration lawyer about my situation, and he suggested I should stay as a knowledge worker, not to APPLY for entrepreneurship visa. Since I gave my decision, I would not work for another company. End of discussion.
+* Asked existing clients and employers for references.
+* Written 20+ page business plan. It sucked all my energy.
+* Worked with a local advisor to review my business plan.
+* Talked with a immigration lawyer about my situation, and he suggested I should stay as a knowledge worker, not to APPLY for entrepreneurship visa. Since I gave my decision,
+I would not work for another company. End of discussion.
 
 July 17th, 2011 - Read to apply
 --------------------------------------------------
-I got my Visa appointment on July 17. Delivered my documents, got my temporary visa for 6 months. The normal time to get a reply is max 2-3 months they said. In total, I wasted 3+ months and spent around €7.000 to be prepared for my Visa application.
+I got my Visa appointment on July 17. Delivered my documents, got my temporary visa for 6 months. The normal time to get a reply is max 2-3 months they said.
+In total, I wasted 3+ months and spent around €7.000 to be prepared for my Visa application.
 
-I was exhausted, and all my energy was drained before even beginning to my idea/product/company. I've decided to go to our summer house in western part of Turkey. I thought, sun and sea will help me recover, charge my batteries and let the ideas flow.
+I was exhausted, and all my energy was drained before even beginning to my idea/product/company. I've decided to go to our summer house in western part of Turkey.
+I thought, sun and sea will help me recover, charge my batteries and let the ideas flow.
 
 ![Summer House at the beach](/media/img/beach.jpg)
 
@@ -36,15 +44,19 @@ Me at the bottom of the picture, lying on the beach, half of my legs inside the 
 
 During this time, I have this project in my mind. CashGenius. Hands on the computer, started coding.
 
-Let's roll back time a bit, and see what I've done within that time. I was a .NET developer for 6+ years. I was done with .NET - Windows sh*t. Don't get me wrong, I like C#. I just don't like Windows. Crappy, bad looking, slow, restrictive,enterprizish. I had a Win Server + Win laptop, but I was in love with Mac. I did not really need a MAC.
+Let's roll back time a bit, and see what I've done within that time. I was a .NET developer for 6+ years. I was done with .NET - Windows sh*t. Don't get me wrong, I like C#.
+I just don't like Windows. Crappy, bad looking, slow, restrictive,enterprizish. I had a Win Server + Win laptop, but I was in love with Mac. I did not really need a MAC.
 
 I went back and forth between Ruby and Python, and decided to go with Ruby on Rails. I was reading quite a lot about RoR, and decided to give it a try. RoR + MongoDB was my game plan.
 
-I said to myself, if you are not going to commit to this thing, you might return back to .NET. Linux wasn't that much attractive. And I wasn't going back to Windows, so I bought a 13" MacBook Pro. ( a nice way to convince yourself )
+I said to myself, if you are not going to commit to this thing, you might return back to .NET. Linux wasn't that much attractive.
+And I wasn't going back to Windows, so I bought a 13" MacBook Pro. ( a nice way to convince yourself )
 
 Glad I did. The most beautiful piece of computer hardware that one can own.
 
-For the first two weeks of my vacation, I wrote fair amount of code, learning more and more about Ruby on Rails daily. After those 2 weeks, I felt like, I was stuck and decided to stop coding. Since I am in vacation, I need to focus on my recharge rather than expecting to produce results. There was no beta users, no customers willing to pay, communicating with me about their problems or simply I wasn't asking anybody about their problems.
+For the first two weeks of my vacation, I wrote fair amount of code, learning more and more about Ruby on Rails daily. After those 2 weeks, I felt like, I was stuck and decided to stop coding.
+Since I am in vacation, I need to focus on my recharge rather than expecting to produce results.
+There was no beta users, no customers willing to pay, communicating with me about their problems or simply I wasn't asking anybody about their problems.
 
 August 29th, 2011 - Prototype on its way
 
@@ -67,22 +79,28 @@ A person that I was following on Twitter sent me a message ;
 
 Why I was against technology talks at that time ? Because I've listened and read enough. It was time to produce. Write code. Build products.
 Solve problems and help people. My friends say I'm a man of choice and I agree with them.
-> You need to figure out  what you want and that's what I want.
+> **You need to figure out  what you want and that's what I want**
 
 On that Wednesday, we went to have some awesome burgers, and have a coffee afterwards. I showed all the cool stuff on Cashgenius.
 Shared our typical expat stories, had a nice conversation about an hour.
 
- And we kept talking over our ideas. Cemal started to convince me that Cashgenius is a really hard way to go. We have also spoken wtih a couple of prospects and realized that they are not using computer to manage their financials. I was in a situation where I wasted again my resources for a product where no customer exists to start up the engines of my business. My game plan was gone. I was falling apart.
+ And we kept talking over our ideas. Cemal started to convince me that Cashgenius is a really hard way to go.
+ We have also spoken wtih a couple of prospects and realized that they are not using computer to manage their financial situation.
+ I was in a situation where I wasted again my resources for a product where no customer exists to start up the engines of my business. My game plan was gone. I was falling apart.
 
 November 1st, 2011 - Time to restart
 ------------------------------------
 
-Cemal had a idea for businesses to monitor Social Media and I was started to get interested into Natural Language processing and web crawlers. We worked on our own and during the time we kept in touch.
+Cemal had a idea for businesses to monitor Social Media and I was started to get interested into Natural Language processing and web crawlers.
+We worked on our own projects for a while and during the time we kept in touch.
 
 December 1st, 2011 - Let's find a place to work together
 --------------------------------------------------------
 
-We believe each other's experience, passion, and ideas, so it was time for both of us to move a place where we can work together to build a product. We have started to look offices, considered WTC Amsterdam where Cemal was working, but did not like the price vs value, Spaces was really expensive and there were no place to rent in Herengracht.  We kept on looking and found Science Park Amsterdam where tenants are only Life Science and IT businesses. The rent was affordable and half of what Spaces was asking, direct connection to our ISP, next to the University of Amsterdam campus.
+We believe each other's experience, passion, and ideas, so it was time for both of us to move a place where we can work together to build a product.
+We have started to look offices, considered WTC Amsterdam where Cemal was working, but did not like the price vs value, Spaces was really expensive and there were no place to rent in Herengracht.
+We kept on looking and found Science Park Amsterdam where tenants are only Life Science and IT businesses.
+The rent was affordable and half of what Spaces was asking, direct connection to our ISP, next to the University of Amsterdam campus.
 
 ![Office](/media/img/office.jpg)
 
@@ -152,7 +170,8 @@ It's a small addition from us to make the internet a better place.
 The beauty of the entrepreneurship and the life is MYSTERY and CHALLENGE. I'm not sure if we're going to succeed on our dreams or not. I'm hungry and like the challenge.
 I would like to be the captain of my ship, my life course.
 
-I'm happy. I don't have a dream to get acquired to feel happy or successful. Ryan Carson has written a great post recently about the topic; [selling your company does not make you happy](http://ryancarson.com/post/24480936689/selling-your-company-doesnt-make-you-happy)
+I'm happy. I don't have a dream to get acquired to feel happy or successful.
+Ryan Carson has written a great post recently about the topic; [selling your company does not make you happy](http://ryancarson.com/post/24480936689/selling-your-company-doesnt-make-you-happy)
 
 > Happiness is not external. Happiness is a perception. Happiness is within. It's up to you. You either choose to be happy or not. Yes, that simple.
 
