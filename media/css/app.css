@@ -33,7 +33,9 @@ article p,.footer {
 	font-size: 1.2em;
 	line-height: 29px;
 }
-
+.footer i{
+	margin-top:5px;
+}
 .articles h3{
 	font-family: 'Amaranth','Domine',verdana,sans-serif;
 	font-size: 28px;
