@@ -28,6 +28,12 @@ article h2 {
 	font-size:21px;
 }
 
+article li {
+	font-family: 'Domine',verdana,sans-serif;
+	font-size:18px;
+}
+
+
 article p,.footer {
 	font-family: 'Muli', 'Helvetica Neue', Arial, Helvetica, sans-serif;
 	font-size: 1.2em;
