@@ -9,22 +9,22 @@ General
 
 - did not take care myself; emotionally and physically
 - did not listen people very well. I've heard them but did not actually listen. I kept on talking and talking.
-- being an expat and entrepreneur is somewhat crazy when you know you're going to have visa problems. Too much instability in one man's life.
-- did not use my time wisely.
-- tried to do too much.
-- should be less harsh on myself and others.
-- was(am) stubborn when I should not be.
-- was inconsistent.
--- I ran 90km in June '12 then in the last 6 months I only ran 30km.
+- being an expat and entrepreneur is somewhat crazy when you know you're going to have visa problems. Too much instability in one man's life
+- did not use my time wisely
+- tried to do too much
+- should be less harsh on myself and others
+- was(am) stubborn when I should not be
+- was inconsistent ( ran 90km in June '12 then in the last 6 months I only ran 30km )
 
 Business
 -----------------
 
-- relationships matter a lot
+- should have connected with more people. Relationships matter a lot.
 - did not plan ahead the business
 - *do not write a 100 page business plan* does not mean don't write it at all
 - started working on other ideas and lost focus when business needed the most
 - should take the money when a beta user offered to pay
+- should have postpone opening company till we have a paying customer base.
 
 Programming
 -------------
@@ -38,13 +38,14 @@ Programming
 The Product
 -------------
 
+- should have fixed the showstopper bug and email them a.s.a.p. to say that we're sorry. ( Some users registered and tried the app when they shouldn't but since I left the Google login open, they've registered and saw a non-working app )
 - did not look for a market very well
 - did not able to explain the product in simple terms
 - did not try to sell the product, I've just build it
 - kept 600 people waiting for a demo while having a product
 - Facebook & Twitter do not have quality content
 
-
+-----------------------------
 
 I always thought I am smart.
 
