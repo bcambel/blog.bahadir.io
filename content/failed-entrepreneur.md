@@ -2,19 +2,19 @@ Why have I failed ?
 ====================
 
 - **I *knew* everything.**
-
+- made a good sprint, but couldn't finish the run. No more oxygen/energy.
 
 General
 ---------
 
 - did not take care myself; emotionally and physically
 - did not listen people very well. I've heard them but did not actually listen. I kept on talking and talking.
-- being an expat and entrepreneur is somewhat crazy when you know you're going to have visa problems. Too much instability in one man's life
+- being an expat and entrepreneur is somewhat crazy when you know you're going to have visa problems. Too much instability in one man's life drains energy.
 - did not use my time wisely
 - tried to do too much
 - should be less harsh on myself and others
 - was(am) stubborn when I should not be
-- was inconsistent ( ran 90km in June '12 then in the last 6 months I only ran 30km )
+- was inconsistent ( ran ~90km in June '12 then in the last 6 months I only ran 30km )
 
 Business
 -----------------
@@ -45,10 +45,4 @@ The Product
 - kept 600 people waiting for a demo while having a product
 - Facebook & Twitter do not have quality content
 
------------------------------
-
-I always thought I am smart.
-
-I change my mind.
-
-I am a fool. A big one.
+I am a fool. A big one. I'm my biggest enemy.
