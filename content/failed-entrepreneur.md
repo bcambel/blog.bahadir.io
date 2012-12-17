@@ -20,6 +20,7 @@ General
 Business
 -----------------
 
+- never did true problem description. Should have write it down
 - should have connected with more people. Relationships matter a lot.
 - did not plan ahead the business
 - *do not write a 100 page business plan* does not mean don't write it at all
@@ -32,12 +33,15 @@ Business
 Programming
 -------------
 
+- scalability problems should be solved when there are scalability problems.
 - have stuck in maker's obsession
 - wrote too much code. 30% became immediately unnecessary
 - did not prioritize what I should be working next
-- failed to work on Python deliberately
-- should have learnt [Celery](http://celeryproject.org/)
+- should have learnt [Celery](http://celeryproject.org/) before
+- should have learnt [Flask](http://flask.pocoo.org/) before
 - more [Backbone](http://documentcloud.github.com/backbone/) less spagetti JS.
+- less code, less code, less code.
+- my job is not programming. My job is delivering value using programming.
 
 The Product
 -------------
