@@ -13,8 +13,9 @@ General
 - did not use my time wisely.
 - tried to do too much.
 - should be less harsh on myself and others.
+- was(am) stubborn when I should not be.
 - was inconsistent.
-	-- I ran 90km in June '12 then in the last 6 months I only ran 30km.
+-- I ran 90km in June '12 then in the last 6 months I only ran 30km.
 
 Business
 -----------------
@@ -44,7 +45,6 @@ The Product
 - Facebook & Twitter do not have quality content
 
 
-I am stubborn when I should not be.
 
 I always thought I am smart.
 
