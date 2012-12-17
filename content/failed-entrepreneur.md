@@ -1,16 +1,16 @@
 Why have I failed ?
 ====================
 
-- I *knew* everything.
+- **I *knew* everything.**
 
 General
 ---------
 
-- did not listen people very well. I've heard them but did not actually listen. I kept on talking and talking.
-- being an expat and entrepreneur is somewhat crazy when you know you're going to have visa problems. Too much instability in one man's life.
-- did not use my time wisely.
-- tried to do too much.
-- should be less harsh on myself and others.
+did not listen people very well. I've heard them but did not actually listen. I kept on talking and talking.
+being an expat and entrepreneur is somewhat crazy when you know you're going to have visa problems. Too much instability in one man's life.
+did not use my time wisely.
+tried to do too much.
+should be less harsh on myself and others.
 
 Business
 -----------------
