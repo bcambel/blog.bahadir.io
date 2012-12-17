@@ -60,4 +60,4 @@ The Product
 
 I am a fool. A big one. I'm my biggest enemy.
 
-[ Now, back to reading ![Book](http://www.amazon.com/gp/customer-media/permalink/mo1XYPFE5SBY024/0974320625) ](http://www.amazon.com/Emotional-Intelligence-2-0-Travis-Bradberry/dp/0974320625/ref=sr_1_2?ie=UTF8&qid=1355770678&sr=8-2)
+[ Now, back to reading ![Book](http://ecx.images-amazon.com/images/I/61LkKJ5lHiL.jpg) ](http://www.amazon.com/Emotional-Intelligence-2-0-Travis-Bradberry/dp/0974320625/ref=sr_1_2?ie=UTF8&qid=1355770678&sr=8-2)
