@@ -54,9 +54,9 @@ def render_jinja():
 			gen_content = markdown2.markdown(content)
 			content = gen_content.encode('ascii','xmlcharrefreplace')
 
-			with open('posts/%s.html'%article.slug,"w+") as article:
-				article.write( article_jinja_tmpl.render(content=content,articles=articles,disqus=True) )
-				article.flush()
+			with open('posts/%s.html'%article.slug,"w+") as article_output:
+				article_output.write( article_jinja_tmpl.render(content=content,title=article.title,articles=articles,disqus=True) )
+				article_output.flush()
 
 	index_jinja_tmpl = env.get_template('index.html')
 	index = 'html/index.html'
