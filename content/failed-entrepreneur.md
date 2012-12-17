@@ -13,7 +13,9 @@ General
 - did not use my time wisely.
 - tried to do too much.
 - should be less harsh on myself and others.
--
+- was inconsistent.
+	-- I ran 90km in June '12 then in the last 6 months I only ran 30km.
+
 Business
 -----------------
 
@@ -21,7 +23,7 @@ Business
 - did not plan ahead the business
 - *do not write a 100 page business plan* does not mean don't write it at all
 - started working on other ideas and lost focus when business needed the most
-- should take the money when people offer you
+- should take the money when a beta user offered to pay
 
 Programming
 -------------
@@ -45,5 +47,7 @@ The Product
 I am stubborn when I should not be.
 
 I always thought I am smart.
+
 I change my mind.
+
 I am a fool. A big one.
