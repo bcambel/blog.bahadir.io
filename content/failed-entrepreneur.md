@@ -1,4 +1,4 @@
-Why have I failed ?
+Why have I failed as an entrepreneur ?
 ====================
 
 - **I *knew* everything.**
@@ -9,12 +9,13 @@ General
 
 - did not take care myself; emotionally and physically
 - did not listen people very well. I've heard them but did not actually listen. I kept on talking and talking.
-- being an expat and entrepreneur is somewhat crazy when you know you're going to have visa problems. Too much instability in one man's life drains energy.
+- being an expat and entrepreneur is somewhat crazy when you know you're going to have visa problems. Too much instability in one man's life drains too much energy.
 - did not use my time wisely
 - tried to do too much
 - should be less harsh on myself and others
 - was(am) stubborn when I should not be
 - was inconsistent ( ran ~90km in June '12 then in the last 6 months I only ran 30km )
+- did not ask for help
 
 Business
 -----------------
@@ -25,6 +26,8 @@ Business
 - started working on other ideas and lost focus when business needed the most
 - should take the money when a beta user offered to pay
 - should have postpone opening company till we have a paying customer base.
+- should have asked money from people
+- rather than having a $400 Amazon EC2 instance, €30 p/m server was enough.
 
 Programming
 -------------
@@ -33,16 +36,21 @@ Programming
 - wrote too much code. 30% became immediately unnecessary
 - did not prioritize what I should be working next
 - failed to work on Python deliberately
-
+- should have learnt [Celery](http://celeryproject.org/)
+- more [Backbone](http://documentcloud.github.com/backbone/) less spagetti JS.
 
 The Product
 -------------
 
-- should have fixed the showstopper bug and email them a.s.a.p. to say that we're sorry. ( Some users registered and tried the app when they shouldn't but since I left the Google login open, they've registered and saw a non-working app )
+- should release the app much more earlier
+- should have fixed the showstopper bug and email users a.s.a.p. to say that we're sorry. ( Some users registered and tried the app when they shouldn't but since I left the Google login open, they've registered and saw a non-working app )
 - did not look for a market very well
 - did not able to explain the product in simple terms
 - did not try to sell the product, I've just build it
 - kept 600 people waiting for a demo while having a product
+- should have integrated payment gateway much more earlier
 - Facebook & Twitter do not have quality content
+
+
 
 I am a fool. A big one. I'm my biggest enemy.
