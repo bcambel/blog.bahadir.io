@@ -10,13 +10,19 @@ body{
 	top: 70px;
 	right: 20px;
 	background-color: white;
-	width: 300px;
+	width: 180px;
 	border-radius: 10px;
 	padding: 20px;
 }
 
 .profile img{
 	width:150px;
+	margin-bottom: 20px;
+}
+.profile p{
+	font-family: 'Amaranth','Domine',verdana,sans-serif;
+	font-size: 25px;
+	line-height: 30px;
 }
 
 article{
