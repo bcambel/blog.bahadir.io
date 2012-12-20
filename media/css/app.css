@@ -7,10 +7,16 @@ body{
 
 .profile{
 	position: absolute;
-	top: 50px;
-	right:50px;
+	top: 70px;
+	right: 20px;
 	background-color: white;
+	width: 300px;
+	border-radius: 10px;
+	padding: 20px;
+}
 
+.profile img{
+	width:150px;
 }
 
 article{
